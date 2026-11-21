@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #mapDiv {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mapDiv"></div>
+      
+    <script nonce="NbYEFX5G_9oAOndTNlqpxw">
+      function onEmbedLoad() {
+        initEmbed([null,null,null,null,null,[[[2,"spotlit",null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,11,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,1]]]],null,null,[[null,null,null,null,null,null,null,null,null,null,null,null,null,[[["4300394390820229991","1274868802792372222"],"/g/11vm3lvv3f",null,[129994563,776987291],null,null,null,null,null,null,null,null,null,null,"gcid:tool_exporter"],0,0,null,null,0,null,0,0]]]],null,["en","in"],[null,null,null,"/maps/api/js/ApplicationService.GetEntityDetails","/maps/embed/upgrade204",null,"/maps/embed/record204"],null,null,null,null,null,null,null,null,"UML2arm0ArS1hvcP1LnmoQU",null,null,null,[[[3244.701980839773,77.69872909999999,12.9994563],[0,0,0],null,13.10000038146973],null,1,[["0x3bae11e9faec1367:0x11b13e6bedaab7fe","AR TECHNO CRAFT, behind Pheonix mall, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048",[12.9994563,77.69872909999999],"1274868802792372222"],"AR TECHNO CRAFT",["behind Pheonix mall","Devasandra Industrial Estate, Mahadevapura","Bengaluru, Karnataka 560048"],4.900000095367432,"10 reviews","https://search.google.com/local/reviews?placeid=ChIJZxPs-ukRrjsR_req7Ws-sRE\u0026q=AR+TECHNO+CRAFT\u0026hl=en\u0026gl=IN",null,"099163 67445",null,null,null,null,"Tool exporter","AR TECHNO CRAFT, behind Pheonix mall, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048",null,null,null,null,null,null,null,null,null,null,null,null,null,"ChIJZxPs-ukRrjsR_req7Ws-sRE",null,null,"2ahUKEwi5nOfzu4SYAxW0muEIHdScOVQQ8BcoAHoECAAQAQ",null,null,["tel:09916367445"],null,null,null,1,["2ahUKEwi5nOfzu4SYAxW0muEIHdScOVQQqtMBKAp6BAgAEAw",["7J4VXMXX+QF"],["XMXX+QF Bengaluru, Karnataka"],2],[[["Friday",5,[2026,11,13],[["9 am–5 pm",[[9],[17]]]],0,1],["Saturday",6,[2026,11,14],[["9 am–5 pm",[[9],[17]]]],0,1],["Sunday",7,[2026,11,15],[["9 am–1 pm",[[9],[13]]]],0,1],["Monday",1,[2026,11,16],[["9 am–5 pm",[[9],[17]]]],0,1],["Tuesday",2,[2026,11,17],[["9 am–5 pm",[[9],[17]]]],0,1],["Wednesday",3,[2026,11,18],[["9 am–5 pm",[[9],[17]]]],0,1],["Thursday",4,[2026,11,19],[["9 am–5 pm",[[9],[17]]]],0,1]],[["Friday",5,[2026,11,13],[["9 am–5 pm",[[9],[17]]]],0,1],0,1,null,["Open · Closes 5 pm",[[0,4,[null,[4281040703,4285388172]]]]],["Open · Closes 5 pm",[[0,4,[null,[4281040703,4285388172]]]]],null,[16],["Open",[[0,4,[null,[4281040703,4285388172]]]]]],5,null,null,null,1]]],null,null,null,0,null,null,null,null,null,null,[1]]);
+      }
+      function onApiLoad() {
+        var embed = document.createElement('script');
+        embed.src = "https://maps.gstatic.com/maps-api-v3/embed/js/66/13d/init_embed.js";
+        document.body.appendChild(embed);
+      }
+    </script>
+    <link rel="preload" href="https://maps.gstatic.com/maps-api-v3/embed/js/66/13d/init_embed.js" nonce="NbYEFX5G_9oAOndTNlqpxw" as="script" />
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&amp;paint_origin=&amp;libraries=geometry,search&amp;v=weekly&amp;loading=async&amp;language=en&amp;region=in&amp;experimentation=allowed&amp;callback=onApiLoad" nonce="NbYEFX5G_9oAOndTNlqpxw" async defer></script>
+  </body>
+</html>

@@ -1,0 +1,182 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "status": "captured",
+      "title": "AR-TECHNO- CRAFT",
+      "html": "index.html"
+    },
+    {
+      "route": "/about",
+      "status": "captured",
+      "title": "AR-TECHNO- CRAFT",
+      "html": "about.html"
+    },
+    {
+      "route": "/about1",
+      "status": "captured",
+      "title": "AR-TECHNO- CRAFT",
+      "html": "about1.html"
+    },
+    {
+      "route": "/about3",
+      "status": "captured",
+      "title": "AR-TECHNO- CRAFT",
+      "html": "about3.html"
+    },
+    {
+      "route": "/product",
+      "status": "captured",
+      "title": "AR-TECHNO- CRAFT",
+      "html": "product.html"
+    },
+    {
+      "route": "/Rapid",
+      "status": "captured",
+      "title": "AR-TECHNO- CRAFT",
+      "html": "Rapid.html"
+    },
+    {
+      "route": "/mould",
+      "status": "captured",
+      "title": "AR-TECHNO- CRAFT",
+      "html": "mould.html"
+    },
+    {
+      "route": "/mmanu",
+      "status": "captured",
+      "title": "AR-TECHNO- CRAFT",
+      "html": "mmanu.html"
+    },
+    {
+      "route": "/mtq",
+      "status": "captured",
+      "title": "AR-TECHNO- CRAFT",
+      "html": "mtq.html"
+    },
+    {
+      "route": "/mp",
+      "status": "captured",
+      "title": "AR-TECHNO- CRAFT",
+      "html": "mp.html"
+    },
+    {
+      "route": "/Gallry",
+      "status": "captured",
+      "title": "AR-TECHNO- CRAFT",
+      "html": "Gallry.html"
+    },
+    {
+      "route": "/products",
+      "status": "captured",
+      "title": "AR-TECHNO- CRAFT",
+      "html": "products.html"
+    },
+    {
+      "route": "/inf",
+      "status": "captured",
+      "title": "AR-TECHNO- CRAFT",
+      "html": "inf.html"
+    },
+    {
+      "route": "/Client",
+      "status": "captured",
+      "title": "AR-TECHNO- CRAFT",
+      "html": "Client.html"
+    },
+    {
+      "route": "/Contact",
+      "status": "captured",
+      "title": "AR-TECHNO- CRAFT",
+      "html": "Contact.html"
+    }
+  ],
+  "downloads_failed": [
+    {
+      "url": "https://artechnocraft.com/public/js/bootstrap.min.js",
+      "status": 404,
+      "saved": "C:\\Users\\excer\\Downloads\\artc-website\\artc\\site\\files\\public\\js\\bootstrap.min.js"
+    },
+    {
+      "url": "https://artechnocraft.com/public/js/modernizr-custom.js",
+      "status": 404,
+      "saved": "C:\\Users\\excer\\Downloads\\artc-website\\artc\\site\\files\\public\\js\\modernizr-custom.js"
+    },
+    {
+      "url": "https://artechnocraft.com/public/js/banner/jquery.easing.1.3.js",
+      "status": 404,
+      "saved": "C:\\Users\\excer\\Downloads\\artc-website\\artc\\site\\files\\public\\js\\banner\\jquery.easing.1.3.js"
+    },
+    {
+      "url": "https://artechnocraft.com/public/js/banner/jquery.bxslider.js",
+      "status": 404,
+      "saved": "C:\\Users\\excer\\Downloads\\artc-website\\artc\\site\\files\\public\\js\\banner\\jquery.bxslider.js"
+    },
+    {
+      "url": "https://artechnocraft.com/public/js/smooth-scrolling-js/jquery-ui-1.10.1.custom.js",
+      "status": 404,
+      "saved": "C:\\Users\\excer\\Downloads\\artc-website\\artc\\site\\files\\public\\js\\smooth-scrolling-js\\jquery-ui-1.10.1.custom.js"
+    },
+    {
+      "url": "https://artechnocraft.com/public/js/smooth-scrolling-js/jquery.smoothdivscroll-1.3-min.js",
+      "status": 404,
+      "saved": "C:\\Users\\excer\\Downloads\\artc-website\\artc\\site\\files\\public\\js\\smooth-scrolling-js\\jquery.smoothdivscroll-1.3-min.js"
+    },
+    {
+      "url": "https://artechnocraft.com/public/js/smooth-scrolling-js/jquery.mousewheel.min.js",
+      "status": 404,
+      "saved": "C:\\Users\\excer\\Downloads\\artc-website\\artc\\site\\files\\public\\js\\smooth-scrolling-js\\jquery.mousewheel.min.js"
+    },
+    {
+      "url": "https://artechnocraft.com/js/lightbox/jquery.mousewheel-3.0.6.pack.js",
+      "status": 404,
+      "saved": "C:\\Users\\excer\\Downloads\\artc-website\\artc\\site\\files\\js\\lightbox\\jquery.mousewheel-3.0.6.pack.js"
+    },
+    {
+      "url": "https://artechnocraft.com/js/lightbox/jquery.fancybox.js?v=2.1.5",
+      "status": 404,
+      "saved": "C:\\Users\\excer\\Downloads\\artc-website\\artc\\site\\files\\js\\lightbox\\jquery.fancybox-1655ba0c0a.js"
+    },
+    {
+      "url": "https://artechnocraft.com/js/lightbox/jquery.fancybox-buttons.js?v=1.0.5",
+      "status": 404,
+      "saved": "C:\\Users\\excer\\Downloads\\artc-website\\artc\\site\\files\\js\\lightbox\\jquery.fancybox-buttons-871b7f81a4.js"
+    },
+    {
+      "url": "https://artechnocraft.com/js/lightbox/jquery.fancybox-media.js?v=1.0.6",
+      "status": 404,
+      "saved": "C:\\Users\\excer\\Downloads\\artc-website\\artc\\site\\files\\js\\lightbox\\jquery.fancybox-media-ffc9f32e0e.js"
+    },
+    {
+      "url": "https://artechnocraft.com/js/lightbox/jquery.fancybox-thumbs.js?v=1.0.7",
+      "status": 404,
+      "saved": "C:\\Users\\excer\\Downloads\\artc-website\\artc\\site\\files\\js\\lightbox\\jquery.fancybox-thumbs-c3d347139a.js"
+    },
+    {
+      "url": "https://artechnocraft.com/images/bdr-nav.jpg",
+      "status": 404,
+      "saved": "C:\\Users\\excer\\Downloads\\artc-website\\artc\\site\\files\\images\\bdr-nav.jpg"
+    },
+    {
+      "url": "about-dropdown",
+      "error": "dropdown screenshot: Locator.hover: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href=\\\"/about\\\"]\").first\n    - locator resolved to <a href=\"/about\" data-discover=\"true\">Company Profile</a>\n  - attempting hover action\n    2 \u00d7 waiting for element to be visible and stable\n      - element is not visible\n    - retrying hover action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible and stable\n      - element is not visible\n    - retrying hover action\n      - waiting 100ms\n    8 \u00d7 waiting for element to be visible and stable\n      - element is not visible\n    - retrying hover action\n      - waiting 500ms\n"
+    },
+    {
+      "url": "functions-dropdown",
+      "error": "dropdown screenshot: Locator.hover: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href=\\\"/product\\\"]\").first\n    - locator resolved to <a href=\"/product\" data-discover=\"true\">Product Design</a>\n  - attempting hover action\n    2 \u00d7 waiting for element to be visible and stable\n      - element is not visible\n    - retrying hover action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible and stable\n      - element is not visible\n    - retrying hover action\n      - waiting 100ms\n    9 \u00d7 waiting for element to be visible and stable\n      - element is not visible\n    - retrying hover action\n      - waiting 500ms\n"
+    },
+    {
+      "url": "https://artechnocraft.com/assets/images/video1.mp4",
+      "status": 206,
+      "error": "Response.body: Target page, context or browser has been closed"
+    },
+    {
+      "url": "https://artechnocraft.com/assets/images/video23.mp4",
+      "status": 206,
+      "error": "Response.body: Target page, context or browser has been closed"
+    }
+  ],
+  "downloaded_responses": 163,
+  "files_directory": "C:\\Users\\excer\\Downloads\\artc-website\\artc\\site\\files",
+  "clone_directory": "C:\\Users\\excer\\Downloads\\artc-website\\artc\\clone"
+}

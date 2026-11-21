@@ -1,0 +1,10 @@
+{
+  "name": "artc-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "python build.py",
+    "start": "python -m http.server 8080",
+    "dev": "python -m http.server 8080"
+  }
+}
